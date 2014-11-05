@@ -21,23 +21,5 @@
             "name": "Brad Vincent",
             "email": "bradvin@gmail.com"
         }
-    ],
-    "require": {
-        "robloach/component-installer": "*",
-        "components/jquery": ">=1.4.4"
-    },
-    "extra": {
-        "component": {
-            "scripts": [
-                "js/footable.js"
-            ],
-            "files": [
-                "js/footable.filter.js",
-                "js/footable.paginate.js",
-                "js/footable.sort.js",
-                "css/footable.standalone.css",
-                "css/footable.paginate.css"
-            ]
-        }
-    }
+    ]
 }
